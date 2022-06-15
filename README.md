@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreasjonathanimm
-- 👀 I’m interested in Coding (Of course) and Chess!
-- 🌱 I’m currently learning HTML & CSS
+- 👀 I’m interested in Game Developing 🕹 and Education! 🎓
+- 🌱 I’m currently learning basically anything, specifically Unity Engine and Art & Design! 🎨
 - 💞️ I’m looking to collaborate on .io Games!
 - 📫 How to reach me andreluveltiayt@gmail.com
 
